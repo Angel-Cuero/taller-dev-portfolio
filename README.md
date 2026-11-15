@@ -1,5 +1,7 @@
 # Portafolio Digital · Angel Julian Cuero Jiménez
 
+[![Deploy portfolio to GitHub Pages](https://github.com/Angel-Cuero/taller-dev-portfolio/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/Angel-Cuero/taller-dev-portfolio/actions/workflows/deploy-pages.yml)
+
 Portafolio académico desarrollado con **Angular 20** para presentar cinco proyectos del curso y de la carrera, con acceso a su repositorio de GitHub y a su aplicación desplegada en GitHub Pages.
 
 ## Contenido
